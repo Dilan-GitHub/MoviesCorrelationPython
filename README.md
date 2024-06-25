@@ -50,7 +50,6 @@ The dataset used for this project contains information on various attributes of 
 
 This project provides insights into the relationship between movie budgets and their gross earnings. By analyzing these correlations, stakeholders in the movie industry can make more informed decisions regarding budget allocation and marketing strategies to maximize a movie's financial success.
 
-For more details, you can view the full Jupyter notebook file [HERE](https://github.com/Dilan-GitHub/PortfolioProjects/blob/main/Movies%20Correlation%20Project.ipynb).
-
+For more details, you can view the full Jupyter notebook file [HERE](https://github.com/Dilan-GitHub/MoviesCorrelationPython/blob/main/Movies%20Correlation%20Project.ipynb)
 
 
